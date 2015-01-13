@@ -42,7 +42,7 @@
  */
 
 
-// Override to allow orientations other than the default portrait orientation.
+/*// Override to allow orientations other than the default portrait orientation.
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
 	
 	//
@@ -95,7 +95,7 @@
 	
 	// Shold not happen
 	return NO;
-}
+} */
 
 //
 // This callback only will be called when GAME_AUTOROTATION == kGameAutorotationUIViewController
